@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T11:53:22.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Yxlze40XlJX23JsUQuPa" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T11:54:04.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Pne2MOd_ispe7_RCf6gt" version="22.1.21" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2477" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         <mxCell id="5tpfrVj5ZAOb9_WyAPQ0-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5tpfrVj5ZAOb9_WyAPQ0-7" target="5tpfrVj5ZAOb9_WyAPQ0-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5tpfrVj5ZAOb9_WyAPQ0-7" value="Guess a letter" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5tpfrVj5ZAOb9_WyAPQ0-7" value="input :Guess a letter" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5tpfrVj5ZAOb9_WyAPQ0-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5tpfrVj5ZAOb9_WyAPQ0-9" target="5tpfrVj5ZAOb9_WyAPQ0-11">
